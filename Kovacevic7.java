@@ -1,6 +1,6 @@
 package com.example;
 
-//Euler problem No.16, answer: 
+//Euler problem No.16, answer: 1366
 import java.math.BigInteger;
 
 public class Kovacevic7 {
